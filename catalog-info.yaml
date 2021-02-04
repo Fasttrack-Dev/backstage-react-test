@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: react-test-app
   description: test
-  annotations: 
-    backstage.io/techdocs-ref: https://github.com/Fasttrack-Dev/backstage-dooku-2
+  annotations: {}
 spec:
   type: website
   lifecycle: experimental
