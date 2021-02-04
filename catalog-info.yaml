@@ -4,7 +4,7 @@ metadata:
   name: react-test-app
   description: test
   annotations: 
-    backstage.io/techdocs-ref: dookuForReact
+    backstage.io/techdocs-ref: https://github.com/Fasttrack-Dev/backstage-dooku-2
 spec:
   type: website
   lifecycle: experimental
